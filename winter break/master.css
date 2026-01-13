@@ -1,0 +1,29 @@
+.div {
+    width: 100px;
+    height: 100px;
+}
+
+.heading {
+    font-size: xxx-large;
+    font-weight: bold;
+    color: rgb(145, 239, 255);
+    /*background-color: rgb(200, 255, 221);*/
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.section {
+    font-size: xxx-large;
+    font-weight: bold;
+    color: rgb(147, 198, 255);
+    text-align: center;
+    margin: auto;
+}
+
+.text {
+    font-size: x-large;
+    color: #c0c0c0;
+    margin: auto;
+    text-align: center;
+}
